@@ -1,5 +1,5 @@
 // Juan Martín Bigot, 91445/8 comision 1
-// TP2: ilucion optica (pasillo sin fin)
+// TP2: ilusion optica (pasillo sin fin)
 // EN EL VIDEO TUVE PROBLEMAS CON EL AUDIO, y no los pude solucionar, perdon.
 // LINK DE MI EXPLICACION = https://youtu.be/RJvP9OJeXWg
 float grosor;
