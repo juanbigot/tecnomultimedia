@@ -7,7 +7,6 @@ https://youtu.be/A5wXdxwUQog ;
 }
 */
 
-
 Central trabajo;
 
 void setup (){
